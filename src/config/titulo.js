@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Cuentas contables: normatividad y conceptos generales.'
