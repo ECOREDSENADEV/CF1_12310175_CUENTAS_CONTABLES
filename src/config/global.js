@@ -8,11 +8,15 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -32,13 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Normativa en Colombia',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Decreto 2649 de 1993',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Decreto 2650 de 1993',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Ley 43 de 1990',
+            hash: 't_1_3',
           },
         ],
       },
@@ -46,14 +60,77 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Principios contables',
         desarrolloContenidos: true,
       },
+
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Plan único de cuentas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Estructura del <em>PUC</em>',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Catálogo de cuentas',
+            hash: 't_3_2',
+          },
+        ],
+      },
+
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Esquema de la Cuenta T',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Registro en la Cuenta T',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Saldos en la Cuenta T (débito y crédito)',
+            hash: 't_4_2',
+          },
+        ],
+      },
+
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Clasificación de las cuentas',
+        desarrolloContenidos: true,
+      },
+
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Cuentas reales o de balance',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Conceptos',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Características',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Movimientos',
+            hash: 't_6_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -74,11 +151,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
+      /*{
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },
+      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
