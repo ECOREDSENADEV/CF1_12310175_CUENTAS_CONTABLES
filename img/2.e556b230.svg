@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="607" height="330" viewBox="0 0 607 330">
+  <g id="Grupo_1204112" data-name="Grupo 1204112" transform="translate(-183 -616)">
+    <rect id="Rectángulo_411223" data-name="Rectángulo 411223" width="607" height="330" rx="12" transform="translate(183 616)" fill="#dfe0cc"/>
+    <text id="Cuentas" transform="translate(226 781.276)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Cuentas</tspan></text>
+    <path id="Trazado_1262498" data-name="Trazado 1262498" d="M2552-10957.336h-30.883v262.086H2552" transform="translate(-2201 11608.276)" fill="none" stroke="#5a4e76" stroke-width="2"/>
+    <path id="Trazado_1262499" data-name="Trazado 1262499" d="M2662.009-10950.062h-12.858v84.793h12.858" transform="translate(-2110.212 11584.063)" fill="none" stroke="#5a4e76" stroke-width="2"/>
+    <path id="Trazado_1262500" data-name="Trazado 1262500" d="M2662.009-10950.062h-12.858v85.5h12.858" transform="translate(-2110.212 11683.558)" fill="none" stroke="#5a4e76" stroke-width="2"/>
+    <path id="Trazado_1262501" data-name="Trazado 1262501" d="M2661.6-10950.062h-12.447v67.958H2661.6" transform="translate(-2110.212 11786.86)" fill="none" stroke="#5a4e76" stroke-width="2"/>
+    <rect id="Rectángulo_411253" data-name="Rectángulo 411253" width="31.625" height="10.636" transform="translate(456 677.823)" fill="#ff9800"/>
+    <path id="Polígono_5" data-name="Polígono 5" d="M12,0,24,16.512H0Z" transform="translate(497.668 671.277) rotate(90)" fill="#ff9800"/>
+    <rect id="Rectángulo_411254" data-name="Rectángulo 411254" width="31.625" height="10.636" transform="translate(459.117 769.323)" fill="#ff9800"/>
+    <path id="Polígono_6" data-name="Polígono 6" d="M12,0,24,16.512H0Z" transform="translate(500.786 762.777) rotate(90)" fill="#ff9800"/>
+    <rect id="Rectángulo_411255" data-name="Rectángulo 411255" width="31.625" height="10.636" transform="translate(456 863.321)" fill="#ff9800"/>
+    <path id="Polígono_7" data-name="Polígono 7" d="M12,0,24,16.512H0Z" transform="translate(497.668 856.775) rotate(90)" fill="#ff9800"/>
+    <rect id="Rectángulo_411256" data-name="Rectángulo 411256" width="60" height="24" transform="translate(553.212 637.276)" fill="#f2f2ea"/>
+    <text id="Activo" transform="translate(560.788 654.276)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Activo</tspan></text>
+    <rect id="Rectángulo_411257" data-name="Rectángulo 411257" width="60" height="25" transform="translate(553.212 664)" fill="#f2f2ea"/>
+    <text id="Pasivo" transform="translate(556.788 682)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Pasivo</tspan></text>
+    <rect id="Rectángulo_411258" data-name="Rectángulo 411258" width="89" height="25" transform="translate(553.212 691.276)" fill="#f2f2ea"/>
+    <text id="Patrimonio" transform="translate(556.788 709.276)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Patrimonio</tspan></text>
+    <rect id="Rectángulo_411259" data-name="Rectángulo 411259" width="77" height="25" transform="translate(553.212 737.276)" fill="#f2f2ea"/>
+    <text id="Ingresos" transform="translate(558.637 755.275)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ingresos</tspan></text>
+    <rect id="Rectángulo_411260" data-name="Rectángulo 411260" width="77" height="25" transform="translate(553.212 765.276)" fill="#f2f2ea"/>
+    <text id="Gastos" transform="translate(558.637 783.275)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gastos</tspan></text>
+    <rect id="Rectángulo_411261" data-name="Rectángulo 411261" width="77" height="25" transform="translate(553.212 793.276)" fill="#f2f2ea"/>
+    <text id="Costos" transform="translate(558.637 811.275)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costos</tspan></text>
+    <rect id="Rectángulo_411262" data-name="Rectángulo 411262" width="77" height="25" transform="translate(554.288 843.276)" fill="#f2f2ea"/>
+    <text id="Deudoras" transform="translate(558.288 861.277)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Deudoras</tspan></text>
+    <rect id="Rectángulo_411263" data-name="Rectángulo 411263" width="94" height="25" transform="translate(553.212 873.276)" fill="#f2f2ea"/>
+    <text id="Acreedoras" transform="translate(557.212 891.277)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Acreedoras</tspan></text>
+    <rect id="Rectángulo_411264" data-name="Rectángulo 411264" width="60" height="26" transform="translate(351 666.276)" fill="#5a4e76"/>
+    <text id="Reales" transform="translate(355 684.276)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Reales</tspan></text>
+    <rect id="Rectángulo_411265" data-name="Rectángulo 411265" width="85" height="26" transform="translate(351 759.276)" fill="#5a4e76"/>
+    <text id="Nominales" transform="translate(355 777.276)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nominales</tspan></text>
+    <rect id="Rectángulo_411266" data-name="Rectángulo 411266" width="85" height="26" transform="translate(351 852.276)" fill="#5a4e76"/>
+    <text id="De_orden" data-name="De orden" transform="translate(357 870.276)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">De orden</tspan></text>
+  </g>
+</svg>
